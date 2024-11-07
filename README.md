@@ -7,7 +7,7 @@ A simple WhatsApp User bot.
 ### 1. Deploy on Heroku
 
 1. **Scan QR Code:**
-   - Click [SCAN](https://new-pair-tldv.onrender.com) and scan the QR code through the "WhatsApp Linked Devices" option in your WhatsApp app.
+   - Click [SCAN](https://pair-for-baby-girl-s.onrender.com) and scan the QR code through the "WhatsApp Linked Devices" option in your WhatsApp app.
    - You will get a session ID in WhatsApp; copy the ID only.
 
 2. **Create Accounts:**
@@ -15,7 +15,7 @@ A simple WhatsApp User bot.
    - If you don't have a GitHub account, [sign up](https://github.com/join) now.
 
 3. **Fork Repository:**
-   - [FORK](https://github.com/lyfe00011/levanter/fork) this repository.
+   - [FORK](https://github.com/Mike352-design/99-Gang/fork) this repository.
 
 4. **Deploy:**
    - Now [DEPLOY](https://qr-hazel-alpha.vercel.app/heroku).
